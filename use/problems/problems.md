@@ -41,11 +41,13 @@ The following events will be generated:
 
 Whenever new information is available for an existing problem, the problem will be updated. For example, a new root cause or contributing cause being added to the problem, or an update to a check on an existing unhealthy component.
 
-The following events will be generated:
+The following event will be generated:
 
 * `ProblemUpdated` event for the existing problem
 
+{% hint style="info" %}
 `ProblemUpdated` events are also generated when a change in root cause results in a problem being [subsumed](#problem-subsumed) or [split](#problem-created).  
+{% endhint %}
 
 ### Problem subsumed
 
