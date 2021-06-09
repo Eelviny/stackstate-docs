@@ -25,6 +25,9 @@ https://<baseUrl>:<receiverPort>/stsAgent/intake?api_key=<API_KEY>
 
 Both the `baseUrl` and `API_KEY` are set during StackState installation, for details see [Linux install - configuration parameters](/setup/installation/linux_install/install_stackstate.md#configuration-options-required-during-install).
 {% endtab %}
+{% tab title="Saas" %}
+Details are provided in your sign-up email.
+{% endtab %}
 {% endtabs %}
 
 
