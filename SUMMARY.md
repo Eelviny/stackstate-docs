@@ -4,8 +4,6 @@
 
 ## 🚀 Setup
 
-* [StackState CLI](setup/installation/cli-install.md)
-* [Release notes](setup/upgrade-stackstate/sts-release-notes.md)
 * [Introduction to StackState](use/introduction-to-stackstate/README.md)
   * [Getting Started](use/introduction-to-stackstate/getting_started.md)
   * [The 4T data model](use/introduction-to-stackstate/4t_data_model.md)
@@ -19,6 +17,8 @@
     * [SaaS](/use/introduction-to-stackstate/data-protection/saas.md)
     * [Self-hosted StackState](/use/introduction-to-stackstate/data-protection/self-hosted.md)
   * [StackState architecture](use/introduction-to-stackstate/stackstate_architecture.md)
+* [Release notes](setup/upgrade-stackstate/sts-release-notes.md)
+* [StackState CLI](setup/installation/cli-install.md)
 
 ## 👤 Use
 
