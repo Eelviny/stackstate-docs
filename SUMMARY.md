@@ -5,8 +5,7 @@
 ## 🚀 Setup
 
 * [StackState CLI](setup/installation/cli-install.md)
-* [Troubleshooting](setup/installation/troubleshooting.md)
-* [StackState release notes](setup/upgrade-stackstate/sts-release-notes.md)
+* [Release notes](setup/upgrade-stackstate/sts-release-notes.md)
 
 ## 👤 Use
 
