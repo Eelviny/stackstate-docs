@@ -49,15 +49,16 @@
 ## 🧩StackPacks
 
 * [About StackPacks](stackpacks/about-stackpacks.md)
-* [StackState Agent](stackpacks/integrations/agent.md)
-* [AWS](stackpacks/integrations/aws.md)
-* [AWS X-ray](stackpacks/integrations/aws-x-ray.md)
-* [Kubernetes](stackpacks/integrations/kubernetes.md)
-* [Openshift](stackpacks/integrations/openshift.md)
-* [Slack](stackpacks/integrations/slack.md)
-* [Add on: Autonomous Anomaly Detector](stackpacks/add-ons/aad.md)
-* [Add on: Health Forecast](stackpacks/add-ons/health-forecast.md)
-
+* [Add-ons](stackpacks/add-ons/README.md)
+  * [Autonomous Anomaly Detector](stackpacks/add-ons/aad.md)
+  * [Health Forecast](stackpacks/add-ons/health-forecast.md)
+* [Integrations](stackpacks/integrations/README.md)
+  * [StackState Agent](stackpacks/integrations/agent.md)
+  * [AWS](stackpacks/integrations/aws.md)
+  * [AWS X-ray](stackpacks/integrations/aws-x-ray.md)
+  * [Kubernetes](stackpacks/integrations/kubernetes.md)
+  * [Openshift](stackpacks/integrations/openshift.md)
+  * [Slack](stackpacks/integrations/slack.md)
 
 ## 🔧 Configure
 
